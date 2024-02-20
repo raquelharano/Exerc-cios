@@ -1,2 +1,2 @@
-Esse exercícios faz parte do Bootcamp Data Analytics para o tema SQL
+Esse exercícios fazem parte do Bootcamp Data Analytics para o tema SQL
 
